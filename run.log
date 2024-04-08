@@ -1,0 +1,734 @@
+2024-04-08 01:10:29 | run            :16     | INFO     : 
+
+
+2024-04-08 01:10:29 | run            :17     | INFO     : ********************
+2024-04-08 01:10:29 | run            :18     | INFO     : ****** START *******
+2024-04-08 01:10:29 | run            :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:10:29 | run            :20     | INFO     : ********************
+2024-04-08 01:10:29 | run            :30     | INFO     : Načítám konfig
+2024-04-08 01:10:29 | run            :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:10:29 | run            :35     | INFO     : Init main
+2024-04-08 01:10:29 | run            :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:10:29 | run            :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:11:25 | run            :16     | INFO     : 
+
+
+2024-04-08 01:11:25 | run            :17     | INFO     : ********************
+2024-04-08 01:11:25 | run            :18     | INFO     : ****** START *******
+2024-04-08 01:11:25 | run            :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:11:25 | run            :20     | INFO     : ********************
+2024-04-08 01:11:25 | run            :30     | INFO     : Načítám konfig
+2024-04-08 01:11:25 | run            :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:11:25 | run            :35     | INFO     : Init main
+2024-04-08 01:11:25 | run            :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:11:25 | run            :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:11:28 | run            :62     | INFO     : Spuštění aplikace
+2024-04-08 01:11:37 | run            :71     | INFO     : 
+********************
+******* END ********
+
+
+2024-04-08 01:12:36 | run            :16     | INFO     : 
+
+
+2024-04-08 01:12:36 | run            :17     | INFO     : ********************
+2024-04-08 01:12:36 | run            :18     | INFO     : ****** START *******
+2024-04-08 01:12:36 | run            :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:12:36 | run            :20     | INFO     : ********************
+2024-04-08 01:12:36 | run            :30     | INFO     : Načítám konfig
+2024-04-08 01:12:36 | run            :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:12:36 | run            :35     | INFO     : Init main
+2024-04-08 01:12:36 | run            :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:12:36 | run            :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:12:38 | run            :62     | INFO     : Spuštění aplikace
+2024-04-08 01:12:38 | run            :71     | INFO     : 
+
+********************
+2024-04-08 01:12:38 | run            :72     | INFO     : ******* END ********
+
+
+2024-04-08 01:13:03 | run            :16     | INFO     : 
+
+
+2024-04-08 01:13:03 | run            :17     | INFO     : ********************
+2024-04-08 01:13:03 | run            :18     | INFO     : ****** START *******
+2024-04-08 01:13:03 | run            :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:13:03 | run            :20     | INFO     : ********************
+2024-04-08 01:13:03 | run            :30     | INFO     : Načítám konfig
+2024-04-08 01:13:03 | run            :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:13:03 | run            :35     | INFO     : Init main
+2024-04-08 01:13:03 | run            :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:13:03 | run            :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:13:05 | run            :62     | INFO     : Spuštění aplikace
+2024-04-08 01:13:05 | run            :71     | INFO     : 
+
+
+2024-04-08 01:13:05 | run            :72     | INFO     : ********************
+2024-04-08 01:13:05 | run            :73     | INFO     : ******* END ********
+
+
+2024-04-08 01:13:58 | run       :16     | INFO     : 
+
+
+2024-04-08 01:13:58 | run       :17     | INFO     : ********************
+2024-04-08 01:13:58 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:13:58 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:13:58 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:13:58 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:13:58 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:13:58 | run       :35     | INFO     : Init main
+2024-04-08 01:13:58 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:13:58 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:14:06 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:14:06 | run       :71     | INFO     : 
+
+
+2024-04-08 01:14:06 | run       :72     | INFO     : ********************
+2024-04-08 01:14:06 | run       :73     | INFO     : ******* END ********
+
+
+2024-04-08 01:16:32 | run       :16     | INFO     : 
+
+
+2024-04-08 01:16:32 | run       :17     | INFO     : ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+2024-04-08 01:16:32 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:16:32 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:16:32 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:16:32 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:16:32 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:16:32 | run       :35     | INFO     : Init main
+2024-04-08 01:16:32 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:16:32 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:16:36 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:16:36 | run       :71     | INFO     : 
+
+
+2024-04-08 01:16:36 | run       :72     | INFO     : ********************
+2024-04-08 01:16:36 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:16:36 | run       :74     | INFO     : ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+
+
+2024-04-08 01:16:59 | run       :16     | INFO     : 
+
+
+2024-04-08 01:16:59 | run       :17     | INFO     : ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+2024-04-08 01:16:59 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:16:59 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:16:59 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:16:59 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:16:59 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:16:59 | run       :35     | INFO     : Init main
+2024-04-08 01:16:59 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:16:59 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:17:00 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:17:00 | run       :71     | INFO     : 
+
+
+2024-04-08 01:17:00 | run       :72     | INFO     : ********************
+2024-04-08 01:17:00 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:17:00 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 01:17:30 | run       :16     | INFO     : 
+
+
+2024-04-08 01:17:30 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:17:30 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:17:30 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:17:30 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:17:30 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:17:30 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:17:30 | run       :35     | INFO     : Init main
+2024-04-08 01:17:30 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:17:30 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:17:35 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:17:35 | run       :71     | INFO     : 
+
+
+2024-04-08 01:17:35 | run       :72     | INFO     : ********************
+2024-04-08 01:17:35 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:17:35 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 01:18:10 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:18:10 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:18:10 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:18:10 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:18:10 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:18:10 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:18:10 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:18:10 | run       :35     | INFO     : Init main
+2024-04-08 01:18:10 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:18:10 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:18:16 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:18:16 | run       :71     | INFO     : 
+
+
+2024-04-08 01:18:16 | run       :72     | INFO     : ********************
+2024-04-08 01:18:16 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:18:16 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 01:18:57 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:18:57 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:18:57 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:18:57 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:18:57 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:18:57 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:18:57 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:18:57 | run       :35     | INFO     : Init main
+2024-04-08 01:18:57 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:18:57 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:18:59 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:19:23 | run       :72     | INFO     : ********************
+2024-04-08 01:19:25 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:19:25 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 01:20:55 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:20:55 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:20:55 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:20:55 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:20:55 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:20:55 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:20:55 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:20:55 | run       :35     | INFO     : Init main
+2024-04-08 01:20:55 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:20:55 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:20:58 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:22:26 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:22:26 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:22:26 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:22:26 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:22:26 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:22:26 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:22:26 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:22:26 | run       :35     | INFO     : Init main
+2024-04-08 01:22:26 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:22:26 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:22:26 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:28:16 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:28:16 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:28:16 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:28:16 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:28:16 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:28:16 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:28:16 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:28:16 | run       :35     | INFO     : Init main
+2024-04-08 01:28:16 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:28:16 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:28:16 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:32:11 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:32:11 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:32:11 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:32:11 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:32:11 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:32:11 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:32:11 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:32:11 | run       :35     | INFO     : Init main
+2024-04-08 01:32:11 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:32:11 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:32:11 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:34:04 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:34:04 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:34:04 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:34:04 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:34:04 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:34:04 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:34:04 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:34:04 | run       :35     | INFO     : Init main
+2024-04-08 01:34:04 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:34:04 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:34:04 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:34:30 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:34:30 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:34:30 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:34:30 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:34:30 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:34:30 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:34:30 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:34:30 | run       :35     | INFO     : Init main
+2024-04-08 01:34:30 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:34:30 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:34:30 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:39:25 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:39:25 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:39:25 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:39:25 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:39:25 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:39:25 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:39:25 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:39:25 | run       :35     | INFO     : Init main
+2024-04-08 01:39:25 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:39:25 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:39:25 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:40:20 | helper    :42     | ERROR    : Chyba při odesílání emailu: (535, b'5.7.8 Error: authentication failed: Invalid base64 data in continued response')
+2024-04-08 01:40:24 | main      :55     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 01:40:28 | run       :72     | INFO     : ********************
+2024-04-08 01:40:29 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:40:31 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 01:46:30 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:46:30 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:46:30 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:46:30 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:46:30 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:46:30 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:46:30 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:46:30 | run       :35     | INFO     : Init main
+2024-04-08 01:46:30 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:46:30 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:46:30 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:46:44 | helper    :42     | ERROR    : Chyba při odesílání emailu: (535, b'5.7.8 Error: authentication failed: UGFzc3dvcmQ6')
+2024-04-08 01:46:51 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:46:51 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:46:51 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:46:51 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:46:51 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:46:51 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:46:51 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:46:51 | run       :35     | INFO     : Init main
+2024-04-08 01:46:51 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:46:51 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:46:51 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:53:20 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:53:20 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:53:20 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:53:20 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:53:20 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:53:20 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:53:20 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:53:20 | run       :35     | INFO     : Init main
+2024-04-08 01:53:20 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:53:21 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:53:21 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:54:11 | helper    :42     | ERROR    : Chyba při odesílání emailu: (535, b'5.7.8 Error: authentication failed: UGFzc3dvcmQ6')
+2024-04-08 01:55:11 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:55:11 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:55:11 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:55:11 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:55:11 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:55:11 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:55:11 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:55:11 | run       :35     | INFO     : Init main
+2024-04-08 01:55:11 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:55:11 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:55:11 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:55:24 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 01:55:30 | main      :57     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 01:55:33 | run       :72     | INFO     : ********************
+2024-04-08 01:55:33 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:55:34 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 01:58:15 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:58:15 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:58:15 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:58:15 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:58:15 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:58:15 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:58:15 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:58:15 | run       :35     | INFO     : Init main
+2024-04-08 01:58:15 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:58:15 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:58:15 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:58:39 | helper    :42     | ERROR    : Chyba při odesílání emailu: (535, b'5.7.8 Error: authentication failed: UGFzc3dvcmQ6')
+2024-04-08 01:58:39 | main      :57     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 01:58:39 | run       :72     | INFO     : ********************
+2024-04-08 01:58:39 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:58:39 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 01:59:33 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 01:59:33 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 01:59:33 | run       :18     | INFO     : ****** START *******
+2024-04-08 01:59:33 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 01:59:33 | run       :20     | INFO     : ********************
+
+
+2024-04-08 01:59:33 | run       :30     | INFO     : Načítám konfig
+2024-04-08 01:59:33 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 01:59:33 | run       :35     | INFO     : Init main
+2024-04-08 01:59:33 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 01:59:34 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 01:59:34 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 01:59:44 | helper    :42     | ERROR    : Chyba při odesílání emailu: (535, b'5.7.8 Error: authentication failed: UGFzc3dvcmQ6')
+2024-04-08 01:59:48 | main      :57     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 01:59:53 | run       :72     | INFO     : ********************
+2024-04-08 01:59:53 | run       :73     | INFO     : ******* END ********
+2024-04-08 01:59:53 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:00:43 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:00:43 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:00:43 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:00:43 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:00:43 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:00:43 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:00:43 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:00:43 | run       :35     | INFO     : Init main
+2024-04-08 02:00:43 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:00:43 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:00:43 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:00:51 | helper    :42     | ERROR    : Chyba při odesílání emailu: (535, b'5.7.8 Error: authentication failed: UGFzc3dvcmQ6')
+2024-04-08 02:00:51 | main      :59     | ERROR    : Email nebyl odeslán
+2024-04-08 02:00:51 | run       :72     | INFO     : ********************
+2024-04-08 02:00:51 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:00:51 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:02:06 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:02:06 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:02:06 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:02:06 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:02:06 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:02:06 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:02:06 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:02:06 | run       :35     | INFO     : Init main
+2024-04-08 02:02:06 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:02:06 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:02:06 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:02:06 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:02:07 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:02:07 | main      :57     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:02:07 | run       :72     | INFO     : ********************
+2024-04-08 02:02:07 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:02:07 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:05:55 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:05:55 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:05:55 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:05:55 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:05:55 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:05:55 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:05:55 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:05:55 | run       :35     | INFO     : Init main
+2024-04-08 02:05:55 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:05:55 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:05:55 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:05:55 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:05:57 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:05:57 | main      :57     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:05:57 | run       :72     | INFO     : ********************
+2024-04-08 02:05:57 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:05:57 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:09:48 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:09:48 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:09:48 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:09:48 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:09:48 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:09:48 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:09:48 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:09:48 | run       :35     | INFO     : Init main
+2024-04-08 02:09:48 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:09:48 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:09:48 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:09:48 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:09:49 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:09:49 | main      :57     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:09:49 | run       :72     | INFO     : ********************
+2024-04-08 02:09:49 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:09:49 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:13:09 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:13:09 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:13:09 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:13:09 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:13:09 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:13:09 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:13:09 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:13:09 | run       :35     | INFO     : Init main
+2024-04-08 02:13:09 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:13:09 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:13:09 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:13:09 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:13:09 | main      :69     | ERROR    : Výjimka při odesílání emailu: 'JBSectionHandler' object has no attribute 'getint'
+2024-04-08 02:13:09 | run       :72     | INFO     : ********************
+2024-04-08 02:13:09 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:13:09 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:13:40 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:13:40 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:13:40 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:13:40 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:13:40 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:13:40 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:13:40 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:13:40 | run       :35     | INFO     : Init main
+2024-04-08 02:13:40 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:13:40 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:13:40 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:13:40 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:13:40 | main      :72     | ERROR    : Výjimka při odesílání emailu: 'JBSectionHandler' object has no attribute 'getint'
+2024-04-08 02:13:40 | run       :72     | INFO     : ********************
+2024-04-08 02:13:40 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:13:40 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:14:23 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:14:23 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:14:23 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:14:23 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:14:23 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:14:23 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:14:23 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:14:23 | run       :35     | INFO     : Init main
+2024-04-08 02:14:23 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:14:23 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:14:23 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:14:23 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:14:23 | main      :55     | INFO     : Nepřidávám verbose_msg_detail
+2024-04-08 02:14:24 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:14:24 | main      :66     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:14:24 | run       :72     | INFO     : ********************
+2024-04-08 02:14:24 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:14:24 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:15:10 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:15:10 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:15:10 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:15:10 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:15:10 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:15:10 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:15:10 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:15:10 | run       :35     | INFO     : Init main
+2024-04-08 02:15:10 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:15:10 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:15:10 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:15:10 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:15:10 | main      :55     | INFO     : Nepřidávám verbose_msg_detail
+2024-04-08 02:15:13 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:15:13 | main      :66     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:15:13 | run       :72     | INFO     : ********************
+2024-04-08 02:15:13 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:15:13 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:15:30 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:15:30 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:15:30 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:15:30 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:15:30 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:15:30 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:15:30 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:15:30 | run       :35     | INFO     : Init main
+2024-04-08 02:15:30 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:15:31 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:15:31 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:15:31 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:16:11 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:16:11 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:16:11 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:16:11 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:16:11 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:16:11 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:16:11 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:16:11 | run       :35     | INFO     : Init main
+2024-04-08 02:16:11 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:16:11 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:16:11 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:16:11 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:16:18 | main      :53     | INFO     : Přidávám verbose_msg_detail
+2024-04-08 02:16:19 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:16:19 | main      :66     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:16:19 | run       :72     | INFO     : ********************
+2024-04-08 02:16:19 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:16:19 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:25:55 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:25:55 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:25:55 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:25:55 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:25:55 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:25:55 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:25:55 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:25:55 | run       :35     | INFO     : Init main
+2024-04-08 02:25:55 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:25:55 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:25:55 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:25:55 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:25:55 | main      :53     | INFO     : Přidávám verbose_msg_detail
+2024-04-08 02:25:56 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:25:56 | main      :66     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:25:56 | run       :72     | INFO     : ********************
+2024-04-08 02:25:56 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:25:56 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+2024-04-08 02:26:19 | run       :16     | INFO     : --------------------
+
+
+2024-04-08 02:26:19 | run       :17     | INFO     : ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+2024-04-08 02:26:19 | run       :18     | INFO     : ****** START *******
+2024-04-08 02:26:19 | run       :19     | INFO     : ***** v1.0.0.0 *****
+2024-04-08 02:26:19 | run       :20     | INFO     : ********************
+
+
+2024-04-08 02:26:19 | run       :30     | INFO     : Načítám konfig
+2024-04-08 02:26:19 | run       :32     | INFO     : - cfg: init Main sekce
+2024-04-08 02:26:19 | run       :35     | INFO     : Init main
+2024-04-08 02:26:19 | run       :39     | INFO     : Logrotate cfg pro mail.log: /home/dvestezar/mail_pflogsum/logrotate_cfg/postfix_maillog_rotate.conf
+2024-04-08 02:26:19 | run       :45     | INFO     : >>> Run <<<
+
+2024-04-08 02:26:19 | run       :62     | INFO     : Spuštění aplikace
+2024-04-08 02:26:19 | main      :32     | INFO     : Odesílám email s logem
+2024-04-08 02:26:19 | main      :53     | INFO     : Přidávám verbose_msg_detail
+2024-04-08 02:26:20 | helper    :39     | INFO     : Email byl odeslán na adresy: ['info@dvestezar.cz']
+2024-04-08 02:26:20 | main      :66     | INFO     : Email byl odeslán se subjektem: Subject: Mail Statistics dvestezar-old server :  - rotated not need
+2024-04-08 02:26:20 | run       :72     | INFO     : ********************
+2024-04-08 02:26:20 | run       :73     | INFO     : ******* END ********
+2024-04-08 02:26:20 | run       :74     | INFO     : ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
