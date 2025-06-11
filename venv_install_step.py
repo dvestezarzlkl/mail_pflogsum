@@ -44,15 +44,15 @@ def check_pflogsum():
     """Zkontroluje, zda je nainstalován pflogsum, a pokud ne, pokusí se jej nainstalovat."""
     try:
         # Ověření, zda je pflogsum dostupný
-        subprocess.run(["which", "pflogsum"], check=True, stdout=subprocess.DEVNULL)
-        print("Pflogsum je již nainstalován.")
+        subprocess.run(["which", "pflogsumm"], check=True, stdout=subprocess.DEVNULL)
+        print("Pflogsumm je již nainstalován.")
     except subprocess.CalledProcessError:
-        print("Pflogsum není nainstalován. Pokouším se jej nainstalovat...")
+        print("Pflogsumm není nainstalován. Pokouším se jej nainstalovat...")
         try:
-            subprocess.run(["apt", "install", "-y", "pflogsum"], check=True)
-            print("Pflogsum byl úspěšně nainstalován.")
+            subprocess.run(["apt", "install", "-y", "pflogsumm"], check=True)
+            print("Pflogsumm byl úspěšně nainstalován.")
         except subprocess.CalledProcessError as e:
-            print("Chyba při instalaci pflogsum:\n", e)
+            print("Chyba při instalaci pflogsumm:\n", e)
             sys.exit(1)
 
 
