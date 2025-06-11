@@ -19,6 +19,32 @@ log.info(" START ".center(20, '*'))
 log.info((" v"+ver+" ").center(20, '*'))
 log.info("*"*20 + "\n\n")
 
+import sys
+
+def is_venv():
+    return (
+        hasattr(sys, 'real_prefix') or
+        (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix)
+    )
+
+if not is_venv():
+    print("Nejsi ve virtuálním prostředí")
+    sys.exit(1)
+
+# Zajištění spuštění jako root
+# check_root_user()
+
+# Zajištění jediného běhu aplikace
+lock_file_path = "/tmp/jb_mailpflogsum_apps.lock"
+import fcntl
+try:
+    lock_file = open(lock_file_path, 'w')
+    fcntl.flock(lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
+except BlockingIOError:
+    print("App running in another instance - exiting")
+    sys.exit(1)
+
+
 # BOF *********************
 import argparse
 import lib.spol as spol
