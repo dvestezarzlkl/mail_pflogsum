@@ -56,10 +56,11 @@ def send_email_statistics(rotate: bool)->bool:
             arg.append('/var/log/mail.log')
 
             # Spuštění pflogsumm a zachycení výstupu
+            log.info(f"Spouštím příkaz: {' '.join(arg)}")
             result = subprocess.run(arg, capture_output=True, text=True, check=True)
             result=f"<pre>{result.stdout}</pre>"
         except subprocess.CalledProcessError as e:
-            log.error(f"Chyba při spouštění pflogsumm: {e.output}")
+            log.exception("Chyba při spouštění pflogsumm")
             return False
 
         if helper.send_html_email(subj, result, tomail, frommail, pwd, host, port):
@@ -69,7 +70,7 @@ def send_email_statistics(rotate: bool)->bool:
             log.error("Email nebyl odeslán")
             return False
     except Exception as e:
-        log.error(f"Výjimka při odesílání emailu: {e}")
+        log.exception("Výjimka při odesílání emailu")
         return False
 
 def rotate_logs(logrotate_conf_path:str)->bool:
