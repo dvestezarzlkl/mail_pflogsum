@@ -1,1 +1,6 @@
 run.ini
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
